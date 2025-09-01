@@ -3,9 +3,9 @@
 /* CSS Custom Properties for Professional Color Scheme */
 :root {
     /* Primary Colors */
-    --primary-color: #6366f1;
-    --primary-dark: #4f46e5;
-    --primary-light: #818cf8;
+    --primary-color: #e54eb8;
+    --primary-dark: #69074c;
+    --primary-light: #9013e3;
     
     /* Secondary Colors */
     --secondary-color: #f8fafc;
@@ -16,7 +16,7 @@
     --accent-light: #22d3ee;
     
     /* Text Colors */
-    --text-primary: #1e293b;
+    --text-primary: #0f070c;
     --text-secondary: #64748b;
     --text-light: #94a3b8;
     --text-white: #ffffff;
