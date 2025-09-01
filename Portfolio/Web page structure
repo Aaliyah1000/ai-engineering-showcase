@@ -1,0 +1,13 @@
+ai-engineering-showcase/
+├── index.html # Main portfolio page
+├── assets/
+│ ├── css/
+│ │ ├── styles.css # Main stylesheet
+│ │ └── reset.css # CSS reset (optional)
+│ ├── js/
+│ │ └── main.js # JavaScript functionality
+│ └── images/
+│ ├── profile.jpg # Your photo
+│ └── projects/ # Project screenshots
+├── projects/ # Individual project pages
+└── README.md

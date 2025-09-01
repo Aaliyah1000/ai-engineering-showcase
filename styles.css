@@ -1002,7 +1002,7 @@ a:hover {
 .form-textarea:focus {
     outline: none;
     border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+    box-shadow: 0 0 0 3px rgba(241, 99, 194, 0.1);
     transform: translateY(-1px);
 }
 
@@ -1079,9 +1079,9 @@ a:hover {
 
 .form-success {
     display: none;
-    background: #f0fdf4;
-    border: 1px solid #bbf7d0;
-    color: #166534;
+    background: #e71a98;
+    border: 1px solid #e53aee;
+    color: #5e0057;
     padding: var(--space-lg);
     border-radius: var(--radius-md);
     margin-top: var(--space-lg);
@@ -1094,7 +1094,7 @@ a:hover {
 }
 
 .form-success i {
-    font-size: var(--font-size-2xl);
+    font-size: var(--font-size-xl);
     margin-bottom: var(--space-sm);
     display: block;
 }
